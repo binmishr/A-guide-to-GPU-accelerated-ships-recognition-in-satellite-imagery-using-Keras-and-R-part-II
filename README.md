@@ -1,0 +1,1 @@
+# A-guide-to-GPU-accelerated-ships-recognition-in-satellite-imagery-using-Keras-and-R-part-II-
